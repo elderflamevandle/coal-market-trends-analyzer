@@ -1,4 +1,5 @@
-# Advanced Query Processing System
+# Coal-Market-Trends-Analyzer
+
 
 This project implements an advanced query processing system that combines document analysis and news retrieval to provide comprehensive insights for procurement strategies.
 
